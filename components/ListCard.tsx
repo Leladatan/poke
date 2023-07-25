@@ -20,7 +20,7 @@ interface Type {
     };
 }
 
-const colorTypes = [
+export const colorTypes = [
     {
         name: "poison",
         color: "bg-green-500/10"
